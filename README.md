@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/AadhiPranesh/LEETCODE/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/AadhiPranesh/LEETCODE/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 ## String
 |  |
 | ------- |
