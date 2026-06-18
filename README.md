@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/AadhiPranesh/LEETCODE/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/AadhiPranesh/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AadhiPranesh/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AadhiPranesh/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Hash Table
@@ -42,4 +43,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/AadhiPranesh/LEETCODE/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/AadhiPranesh/LEETCODE/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/AadhiPranesh/LEETCODE/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
