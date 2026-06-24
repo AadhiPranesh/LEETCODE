@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/AadhiPranesh/LEETCODE/tree/master/0197-rising-temperature) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/AadhiPranesh/LEETCODE/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/AadhiPranesh/LEETCODE/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
+| [1661-average-time-of-process-per-machine](https://github.com/AadhiPranesh/LEETCODE/tree/master/1661-average-time-of-process-per-machine) |
 ## String
 |  |
 | ------- |
