@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AadhiPranesh/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/AadhiPranesh/LEETCODE/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/AadhiPranesh/LEETCODE/tree/master/0049-group-anagrams) |
+| [0202-happy-number](https://github.com/AadhiPranesh/LEETCODE/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/AadhiPranesh/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AadhiPranesh/LEETCODE/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/AadhiPranesh/LEETCODE/tree/master/0290-word-pattern) |
@@ -79,4 +80,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/AadhiPranesh/LEETCODE/tree/master/0027-remove-element) |
+| [0202-happy-number](https://github.com/AadhiPranesh/LEETCODE/tree/master/0202-happy-number) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/AadhiPranesh/LEETCODE/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
