@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AadhiPranesh/LEETCODE/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AadhiPranesh/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/AadhiPranesh/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/AadhiPranesh/LEETCODE/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/AadhiPranesh/LEETCODE/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/AadhiPranesh/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AadhiPranesh/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/AadhiPranesh/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/AadhiPranesh/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/AadhiPranesh/LEETCODE/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/AadhiPranesh/LEETCODE/tree/master/0205-isomorphic-strings) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/AadhiPranesh/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0202-happy-number](https://github.com/AadhiPranesh/LEETCODE/tree/master/0202-happy-number) |
 ## Union-Find
 |  |
