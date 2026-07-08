@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/AadhiPranesh/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/AadhiPranesh/LEETCODE/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/AadhiPranesh/LEETCODE/tree/master/0283-move-zeroes) |
+| [0410-split-array-largest-sum](https://github.com/AadhiPranesh/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AadhiPranesh/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AadhiPranesh/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Hash Table
@@ -116,8 +117,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/AadhiPranesh/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AadhiPranesh/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0410-split-array-largest-sum](https://github.com/AadhiPranesh/LEETCODE/tree/master/0410-split-array-largest-sum) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AadhiPranesh/LEETCODE/tree/master/0070-climbing-stairs) |
+## Binary Search
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/AadhiPranesh/LEETCODE/tree/master/0410-split-array-largest-sum) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/AadhiPranesh/LEETCODE/tree/master/0410-split-array-largest-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/AadhiPranesh/LEETCODE/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
