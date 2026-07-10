@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/AadhiPranesh/LEETCODE/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/AadhiPranesh/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AadhiPranesh/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0621-task-scheduler](https://github.com/AadhiPranesh/LEETCODE/tree/master/0621-task-scheduler) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AadhiPranesh/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Hash Table
 |  |
@@ -35,17 +36,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/AadhiPranesh/LEETCODE/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/AadhiPranesh/LEETCODE/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AadhiPranesh/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0621-task-scheduler](https://github.com/AadhiPranesh/LEETCODE/tree/master/0621-task-scheduler) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AadhiPranesh/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/AadhiPranesh/LEETCODE/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/AadhiPranesh/LEETCODE/tree/master/0242-valid-anagram) |
+| [0621-task-scheduler](https://github.com/AadhiPranesh/LEETCODE/tree/master/0621-task-scheduler) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AadhiPranesh/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/AadhiPranesh/LEETCODE/tree/master/0383-ransom-note) |
+| [0621-task-scheduler](https://github.com/AadhiPranesh/LEETCODE/tree/master/0621-task-scheduler) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AadhiPranesh/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Database
 |  |
@@ -132,8 +136,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/AadhiPranesh/LEETCODE/tree/master/0410-split-array-largest-sum) |
+| [0621-task-scheduler](https://github.com/AadhiPranesh/LEETCODE/tree/master/0621-task-scheduler) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/AadhiPranesh/LEETCODE/tree/master/0410-split-array-largest-sum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/AadhiPranesh/LEETCODE/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
