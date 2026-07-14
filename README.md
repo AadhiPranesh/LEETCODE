@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/AadhiPranesh/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AadhiPranesh/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0621-task-scheduler](https://github.com/AadhiPranesh/LEETCODE/tree/master/0621-task-scheduler) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/AadhiPranesh/LEETCODE/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1331-rank-transform-of-an-array](https://github.com/AadhiPranesh/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AadhiPranesh/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Hash Table
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AadhiPranesh/LEETCODE/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/AadhiPranesh/LEETCODE/tree/master/0242-valid-anagram) |
 | [0621-task-scheduler](https://github.com/AadhiPranesh/LEETCODE/tree/master/0621-task-scheduler) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/AadhiPranesh/LEETCODE/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1331-rank-transform-of-an-array](https://github.com/AadhiPranesh/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AadhiPranesh/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/AadhiPranesh/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AadhiPranesh/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/AadhiPranesh/LEETCODE/tree/master/0410-split-array-largest-sum) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/AadhiPranesh/LEETCODE/tree/master/1235-maximum-profit-in-job-scheduling) |
 ## Memoization
 |  |
 | ------- |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AadhiPranesh/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/AadhiPranesh/LEETCODE/tree/master/0410-split-array-largest-sum) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/AadhiPranesh/LEETCODE/tree/master/1235-maximum-profit-in-job-scheduling) |
 ## Greedy
 |  |
 | ------- |
