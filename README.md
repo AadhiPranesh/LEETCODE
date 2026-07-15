@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/AadhiPranesh/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/AadhiPranesh/LEETCODE/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/AadhiPranesh/LEETCODE/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/AadhiPranesh/LEETCODE/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/AadhiPranesh/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AadhiPranesh/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0621-task-scheduler](https://github.com/AadhiPranesh/LEETCODE/tree/master/0621-task-scheduler) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/AadhiPranesh/LEETCODE/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/AadhiPranesh/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AadhiPranesh/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0322-coin-change](https://github.com/AadhiPranesh/LEETCODE/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/AadhiPranesh/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/AadhiPranesh/LEETCODE/tree/master/1235-maximum-profit-in-job-scheduling) |
 ## Memoization
@@ -165,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/AadhiPranesh/LEETCODE/tree/master/0621-task-scheduler) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/AadhiPranesh/LEETCODE/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
