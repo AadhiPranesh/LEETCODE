@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/AadhiPranesh/LEETCODE/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/AadhiPranesh/LEETCODE/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/AadhiPranesh/LEETCODE/tree/master/0383-ransom-note) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/AadhiPranesh/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Sliding Window
 |  |
 | ------- |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AadhiPranesh/LEETCODE/tree/master/0020-valid-parentheses) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/AadhiPranesh/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/AadhiPranesh/LEETCODE/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/AadhiPranesh/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0621-task-scheduler](https://github.com/AadhiPranesh/LEETCODE/tree/master/0621-task-scheduler) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/AadhiPranesh/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -180,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/AadhiPranesh/LEETCODE/tree/master/0322-coin-change) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/AadhiPranesh/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
