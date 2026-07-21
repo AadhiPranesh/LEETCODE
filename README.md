@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AadhiPranesh/LEETCODE/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/AadhiPranesh/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/AadhiPranesh/LEETCODE/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/AadhiPranesh/LEETCODE/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/AadhiPranesh/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AadhiPranesh/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/AadhiPranesh/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/AadhiPranesh/LEETCODE/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/AadhiPranesh/LEETCODE/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/AadhiPranesh/LEETCODE/tree/master/0242-valid-anagram) |
 | [0621-task-scheduler](https://github.com/AadhiPranesh/LEETCODE/tree/master/0621-task-scheduler) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/AadhiPranesh/LEETCODE/tree/master/1235-maximum-profit-in-job-scheduling) |
