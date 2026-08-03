@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AadhiPranesh/LEETCODE/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AadhiPranesh/LEETCODE/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/AadhiPranesh/LEETCODE/tree/master/0621-task-scheduler) |
+| [0877-stone-game](https://github.com/AadhiPranesh/LEETCODE/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/AadhiPranesh/LEETCODE/tree/master/0881-boats-to-save-people) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/AadhiPranesh/LEETCODE/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1331-rank-transform-of-an-array](https://github.com/AadhiPranesh/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/AadhiPranesh/LEETCODE/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/AadhiPranesh/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/AadhiPranesh/LEETCODE/tree/master/0202-happy-number) |
+| [0877-stone-game](https://github.com/AadhiPranesh/LEETCODE/tree/master/0877-stone-game) |
 ## Union-Find
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/AadhiPranesh/LEETCODE/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/AadhiPranesh/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/AadhiPranesh/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
+| [0877-stone-game](https://github.com/AadhiPranesh/LEETCODE/tree/master/0877-stone-game) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/AadhiPranesh/LEETCODE/tree/master/1235-maximum-profit-in-job-scheduling) |
 ## Memoization
 |  |
@@ -203,4 +206,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AadhiPranesh/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/AadhiPranesh/LEETCODE/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/AadhiPranesh/LEETCODE/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/AadhiPranesh/LEETCODE/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
