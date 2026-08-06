@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/AadhiPranesh/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/AadhiPranesh/LEETCODE/tree/master/0202-happy-number) |
 | [0877-stone-game](https://github.com/AadhiPranesh/LEETCODE/tree/master/0877-stone-game) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/AadhiPranesh/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Union-Find
 |  |
 | ------- |
@@ -226,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AadhiPranesh/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/AadhiPranesh/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
