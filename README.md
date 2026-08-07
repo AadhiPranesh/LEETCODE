@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/AadhiPranesh/LEETCODE/tree/master/0100-same-tree) |
 | [0322-coin-change](https://github.com/AadhiPranesh/LEETCODE/tree/master/0322-coin-change) |
 ## Monotonic Stack
 |  |
@@ -231,4 +232,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AadhiPranesh/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/AadhiPranesh/LEETCODE/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/AadhiPranesh/LEETCODE/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/AadhiPranesh/LEETCODE/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
