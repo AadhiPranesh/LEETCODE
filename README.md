@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/AadhiPranesh/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AadhiPranesh/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/AadhiPranesh/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AadhiPranesh/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0209-minimum-size-subarray-sum](https://github.com/AadhiPranesh/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/AadhiPranesh/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/AadhiPranesh/LEETCODE/tree/master/0228-summary-ranges) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/AadhiPranesh/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/AadhiPranesh/LEETCODE/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/AadhiPranesh/LEETCODE/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AadhiPranesh/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/AadhiPranesh/LEETCODE/tree/master/0202-happy-number) |
 | [0877-stone-game](https://github.com/AadhiPranesh/LEETCODE/tree/master/0877-stone-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AadhiPranesh/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AadhiPranesh/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/AadhiPranesh/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AadhiPranesh/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1441-build-an-array-with-stack-operations](https://github.com/AadhiPranesh/LEETCODE/tree/master/1441-build-an-array-with-stack-operations) |
 ## Dynamic Programming
