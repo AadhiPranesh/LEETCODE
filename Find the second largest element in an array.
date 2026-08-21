@@ -1,0 +1,59 @@
+import java.util.*;
+
+public class Main {
+    public static void main(String[] args) {
+      Scanner scan=  new Scanner(System.in);
+      int a =scan.nextInt();
+      int [] arr= new int[a];
+      for(int i=0;i<a;i++)
+      {
+        arr[i]=scan.nextInt();
+      }
+     HashSet<Integer> set = new HashSet<>();
+     for(int i=0;i<a;i++)
+     {
+       set.add(arr[i]);
+     }
+      ArrayList<Integer> list =new ArrayList<>(set);
+      Collections.sort(list);
+      System.out.print(list.get(list.size()-2));
+
+      }
+}
+
+
+
+
+
+
+import java.util.*;
+
+public class Main {
+    public static void main(String[] args) {
+
+        Scanner scan = new Scanner(System.in);
+
+        int n = scan.nextInt();
+        int[] arr = new int[n];
+
+        for (int i = 0; i < n; i++) {
+            arr[i] = scan.nextInt();
+        }
+
+        int largest = Integer.MIN_VALUE;
+        int second = Integer.MIN_VALUE;
+
+        for (int i = 0; i < n; i++) {
+
+            if (arr[i] > largest) {
+                second = largest;
+                largest = arr[i];
+            }
+            else if (arr[i] > second && arr[i] != largest) {
+                second = arr[i];
+            }
+        }
+
+        System.out.println(second);
+    }
+}
