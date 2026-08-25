@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AadhiPranesh/LEETCODE/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/AadhiPranesh/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/AadhiPranesh/LEETCODE/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/AadhiPranesh/LEETCODE/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/AadhiPranesh/LEETCODE/tree/master/0045-jump-game-ii) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AadhiPranesh/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/AadhiPranesh/LEETCODE/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/AadhiPranesh/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/AadhiPranesh/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/AadhiPranesh/LEETCODE/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/AadhiPranesh/LEETCODE/tree/master/0072-edit-distance) |
@@ -263,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/AadhiPranesh/LEETCODE/tree/master/0100-same-tree) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/AadhiPranesh/LEETCODE/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
