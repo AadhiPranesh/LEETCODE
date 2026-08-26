@@ -21,7 +21,7 @@ class Solution {
                     arr[i][j]=arr[i-1][j-1];
                 }
                 else
-                {
+                { 
                     int topleft = arr[i-1][j-1];
                     int top=arr[i-1][j];
                     int left=arr[i][j-1];
