@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/AadhiPranesh/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/AadhiPranesh/LEETCODE/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/AadhiPranesh/LEETCODE/tree/master/0283-move-zeroes) |
+| [0289-game-of-life](https://github.com/AadhiPranesh/LEETCODE/tree/master/0289-game-of-life) |
 | [0322-coin-change](https://github.com/AadhiPranesh/LEETCODE/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/AadhiPranesh/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/AadhiPranesh/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
@@ -141,11 +142,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/AadhiPranesh/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/AadhiPranesh/LEETCODE/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/AadhiPranesh/LEETCODE/tree/master/0073-set-matrix-zeroes) |
+| [0289-game-of-life](https://github.com/AadhiPranesh/LEETCODE/tree/master/0289-game-of-life) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/AadhiPranesh/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/AadhiPranesh/LEETCODE/tree/master/0059-spiral-matrix-ii) |
+| [0289-game-of-life](https://github.com/AadhiPranesh/LEETCODE/tree/master/0289-game-of-life) |
 | [1441-build-an-array-with-stack-operations](https://github.com/AadhiPranesh/LEETCODE/tree/master/1441-build-an-array-with-stack-operations) |
 ## Two Pointers
 |  |
