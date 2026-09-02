@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/AadhiPranesh/LEETCODE/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/AadhiPranesh/LEETCODE/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/AadhiPranesh/LEETCODE/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/AadhiPranesh/LEETCODE/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AadhiPranesh/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/AadhiPranesh/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AadhiPranesh/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -284,4 +285,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AadhiPranesh/LEETCODE/tree/master/0053-maximum-subarray) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/AadhiPranesh/LEETCODE/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/AadhiPranesh/LEETCODE/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
