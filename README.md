@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/AadhiPranesh/LEETCODE/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/AadhiPranesh/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/AadhiPranesh/LEETCODE/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/AadhiPranesh/LEETCODE/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AadhiPranesh/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/AadhiPranesh/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AadhiPranesh/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/AadhiPranesh/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/AadhiPranesh/LEETCODE/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/AadhiPranesh/LEETCODE/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/AadhiPranesh/LEETCODE/tree/master/0079-word-search) |
 | [0205-isomorphic-strings](https://github.com/AadhiPranesh/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AadhiPranesh/LEETCODE/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/AadhiPranesh/LEETCODE/tree/master/0290-word-pattern) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/AadhiPranesh/LEETCODE/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/AadhiPranesh/LEETCODE/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/AadhiPranesh/LEETCODE/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/AadhiPranesh/LEETCODE/tree/master/0079-word-search) |
 | [0289-game-of-life](https://github.com/AadhiPranesh/LEETCODE/tree/master/0289-game-of-life) |
 ## Simulation
 |  |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/AadhiPranesh/LEETCODE/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/AadhiPranesh/LEETCODE/tree/master/0100-same-tree) |
 ## Binary Tree
 |  |
@@ -305,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/AadhiPranesh/LEETCODE/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/AadhiPranesh/LEETCODE/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/AadhiPranesh/LEETCODE/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/AadhiPranesh/LEETCODE/tree/master/0079-word-search) |
 ## Bit Manipulation
 |  |
 | ------- |
