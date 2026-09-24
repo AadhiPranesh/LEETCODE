@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/AadhiPranesh/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AadhiPranesh/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/AadhiPranesh/LEETCODE/tree/master/1441-build-an-array-with-stack-operations) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AadhiPranesh/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AadhiPranesh/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/AadhiPranesh/LEETCODE/tree/master/0202-happy-number) |
 | [0877-stone-game](https://github.com/AadhiPranesh/LEETCODE/tree/master/0877-stone-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AadhiPranesh/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AadhiPranesh/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Union-Find
 |  |
 | ------- |
