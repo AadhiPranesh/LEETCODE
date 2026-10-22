@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AadhiPranesh/LEETCODE/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/AadhiPranesh/LEETCODE/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/AadhiPranesh/LEETCODE/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/AadhiPranesh/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/AadhiPranesh/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AadhiPranesh/LEETCODE/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/AadhiPranesh/LEETCODE/tree/master/0290-word-pattern) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/AadhiPranesh/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/AadhiPranesh/LEETCODE/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AadhiPranesh/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/AadhiPranesh/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0322-coin-change](https://github.com/AadhiPranesh/LEETCODE/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/AadhiPranesh/LEETCODE/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/AadhiPranesh/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/AadhiPranesh/LEETCODE/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/AadhiPranesh/LEETCODE/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/AadhiPranesh/LEETCODE/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/AadhiPranesh/LEETCODE/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
